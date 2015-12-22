@@ -1,2 +1,2 @@
 # PhpSamples
-PhpSamples - Master Branch
+PhpSamples - 2015.11.1 Branch
